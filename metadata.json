@@ -1,0 +1,7 @@
+{
+  "name": "Copy of 24数媒1班 Class Portal",
+  "description": "A beautiful, feature-rich portal for the 24 Digital Media Class 1, featuring AI tools, resource sharing, and class news.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
